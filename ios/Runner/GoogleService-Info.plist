@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>951526525153-e2tmevt58rs1b8cal8ike5an8noqtll2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.951526525153-e2tmevt58rs1b8cal8ike5an8noqtll2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCAuyZXJI8QsmlrD1FOOcURan9ccFf1O8w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>951526525153</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.geardy.photogram</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-photogram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-photogram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:951526525153:ios:17e6202345f32fcd9a8fa0</string>
+</dict>
+</plist>

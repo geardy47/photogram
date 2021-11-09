@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "951526525153",
+    "project_id": "flutter-photogram",
+    "storage_bucket": "flutter-photogram.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951526525153:android:d545045a1d1a87df9a8fa0",
+        "android_client_info": {
+          "package_name": "com.geardy.photogram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951526525153-kre9j1ka0939lm5se76h8t30isdfnpkp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDvRZMyAmiYb0d_wpZkYm9cvIs_QphxUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951526525153-kre9j1ka0939lm5se76h8t30isdfnpkp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "951526525153-e2tmevt58rs1b8cal8ike5an8noqtll2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.geardy.photogram"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
